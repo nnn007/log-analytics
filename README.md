@@ -34,14 +34,14 @@ and gain insights into their log data.
     ```
 
 2. **Upload Log Files:**
-    - Access the web dashboard via the provided URL.
+    - Access the web dashboard via this URL : http://127.0.0.1:9050/.
     - Upload one or more log files for analysis.
 
 3. **View Analytics:**
     - After processing, view the parsed logs and analytics results on the dashboard.
 
 ## Contributing
-
+This is just a preliminary analytics framework at this stage.
 I welcome contributions from the community! Please follow these steps:
 
 1. **Fork the Repository**
