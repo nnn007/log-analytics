@@ -41,7 +41,7 @@ and gain insights into their log data.
     - After processing, view the parsed logs and analytics results on the dashboard.
 
 ## Contributing
-
+This is just a preliminary analytics framework at this stage.
 I welcome contributions from the community! Please follow these steps:
 
 1. **Fork the Repository**
